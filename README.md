@@ -1,5 +1,7 @@
 # vue-currency-exchange
 
+https://nazarko94.github.io/vue-currency-exchange/
+
 ## Project setup
 ```
 npm install
